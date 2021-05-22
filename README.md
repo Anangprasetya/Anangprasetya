@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hallo Semua 👋
+### Saya Anang Nur Prasetya 
+#### Saya adalah Seorang Programmer yang sedang mencari magang disuatu perusahaan
 
 <!--
 **Anangprasetya/Anangprasetya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
