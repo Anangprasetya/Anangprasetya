@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 - [Moe API](https://beta.moe.team)
 
 ![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi)
+[![Anangprasetya's GitHub stats](https://github-readme-stats.vercel.app/api?username=anangprasetya)](https://github.com/anangprasetya)
+
 
 <details>
 <summary>:bar_chart: Recent Anilist Activity</summary>
