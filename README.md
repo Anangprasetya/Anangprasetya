@@ -16,14 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I'd like to do project that has relation to anime. :ghost:
-
-:page_with_curl: I'm currently learning:
-- Dart 
+:Sekarang saya: mempelajari beberapa hal:
 - Python
-- Javascript
-- GraphQL
+- C++
+- PHP
+- Django
+- Codeigniter
 
 :star: Here are some projects that I'm working on:
 - [Neonime App](https://install.appcenter.ms/users/moepoi/apps/neonime/distribution_groups/public)
