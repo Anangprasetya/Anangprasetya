@@ -28,8 +28,10 @@ Here are some ideas to get you started:
 - [Nepgear](https://t.me/NepgearBot)
 - [WhoisBot](https://t.me/WhoisBot)
 - [Moe API](https://beta.moe.team)
-
+<!--
 ![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi)
+-->
+![Anang's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Anangprasetya)
 [![Anangprasetya's GitHub stats](https://github-readme-stats.vercel.app/api?username=anangprasetya)](https://github.com/anangprasetya)
 
 
