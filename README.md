@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - Codeigniter
 
 :Beberapa projects yang sedang saya kerjakan:
-- [Kelola Data Mahasiswa C++]()
+- [Membaca File Dengan C++](https://github.com/Anangprasetya/Project-BacaFile)
 - [Web Sederhana Django]()
 
 ![Anang's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Anangprasetya)
