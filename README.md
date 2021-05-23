@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 ![Anang's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Anangprasetya)
 
-
-Feel free to contact me :yum:
+:Kontak Saya:
 <br><br>
-[<img src="https://img.shields.io/badge/Telegram-%40Moepoi-blue">](https://t.me/moepoi)
-[<img src="https://img.shields.io/badge/LINE-Moepoi-brightgreen">](https://line.me/ti/p/~moepoi)
-[<img src="https://img.shields.io/badge/Email-moe%40chocola.dev-orange">](mailto:anangnr.pras@gmail.com)
-[	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](mailto:anangnr.pras@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:anangnr.pras@gmail.com)
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://web.facebook.com/profile.php?id=100051525842729)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/anangprasetyaa/)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Anang87435253)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/anang-prasetya-2b3805205/)
 
