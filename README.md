@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - Django
 - Codeigniter
 
-:star: Here are some projects that I'm working on:
+:Beberapa projects yang sedang saya kerjakan:
 - [Kelola Data Mahasiswa C++]()
 - [Web Sederhana Django]()
 
@@ -35,4 +35,5 @@ Feel free to contact me :yum:
 [<img src="https://img.shields.io/badge/Telegram-%40Moepoi-blue">](https://t.me/moepoi)
 [<img src="https://img.shields.io/badge/LINE-Moepoi-brightgreen">](https://line.me/ti/p/~moepoi)
 [<img src="https://img.shields.io/badge/Email-moe%40chocola.dev-orange">](mailto:anangnr.pras@gmail.com)
+[	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](mailto:anangnr.pras@gmail.com)
 
