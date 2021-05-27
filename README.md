@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 - Django
 - Codeigniter
 
-:Beberapa projects yang sedang saya kerjakan:
+:Beberapa projects hasil kerja saya: Dan yang sedang saya kerjakan :
 - [Membaca File Dengan C++](https://github.com/Anangprasetya/Project-BacaFile)
-- [Web Sederhana Django]()
+- [OOP PHP Untuk MVC](https://github.com/Anangprasetya/MyFramework)
 
 ![Anang's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Anangprasetya)
 
