@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:Sekarang saya: mempelajari beberapa hal:
+:Sekarang saya mempelajari dan mendalami beberapa hal:
 - Python
 - C++
 - PHP
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - [Membaca File Dengan C++](https://github.com/Anangprasetya/Project-BacaFile)
 - [OOP PHP Untuk MVC](https://github.com/Anangprasetya/MyFramework)
 
-![Anang's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Anangprasetya)
+![Anangprasetya's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Anangprasetya)
 
 :Kontak Saya:
 <br><br>
