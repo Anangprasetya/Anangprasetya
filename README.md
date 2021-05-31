@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - PHP
 - Django
 - Codeigniter
+- Laravel
 
 :Beberapa projects hasil kerja saya: Dan yang sedang saya kerjakan :
 - [Membaca File Dengan C++](https://github.com/Anangprasetya/Project-BacaFile)
