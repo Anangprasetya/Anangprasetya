@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 
 :Beberapa projects hasil kerja saya: Dan yang sedang saya kerjakan :
 - [Membaca File Dengan C++](https://github.com/Anangprasetya/Project-BacaFile)
+- [Live Search C++](https://github.com/Anangprasetya/LinearSearchingAlpro)
 - [OOP PHP Untuk MVC](https://github.com/Anangprasetya/MyFramework)
+
 
 ![Anangprasetya's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Anangprasetya)
 
