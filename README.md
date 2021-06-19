@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 :Beberapa projects hasil kerja saya: Dan yang sedang saya kerjakan :
 - [Membaca File Dengan C++](https://github.com/Anangprasetya/Project-BacaFile)
+- [Sistem Pembayaran C++](https://github.com/Anangprasetya/SistemPembayaranUAD)
 - [Live Search C++](https://github.com/Anangprasetya/LinearSearchingAlpro)
 - [OOP PHP Untuk MVC](https://github.com/Anangprasetya/MyFramework)
 
