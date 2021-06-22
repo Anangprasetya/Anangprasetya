@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 
 ![Anangprasetya's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Anangprasetya)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anangprasetya&hide=Jupyter%20Notebook,TeX,CSS&layout=compact&langs_count=7)
 
 :Kontak Saya:
