@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - Django
 - Codeigniter
 - Laravel
+- Solidity (Blockchain)
 
 :Beberapa projects hasil kerja saya: Dan yang sedang saya kerjakan :
 - [Membaca File Dengan C++](https://github.com/Anangprasetya/Project-BacaFile)
